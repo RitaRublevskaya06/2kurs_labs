@@ -1,0 +1,9 @@
+﻿  Error.cpp
+  In.cpp
+  Log.cpp
+  Out.cpp
+D:\Univer\2 kurs\KPO\Lab_15\SE_Lab14\Out.cpp(24,34): warning C4018: <: несоответствие типов со знаком и без знака
+  Parm.cpp
+  SE_Lab14.cpp
+  Создание кода...
+  SE_Lab14.vcxproj -> D:\Univer\2 kurs\KPO\Lab_15\Debug\SE_Lab14.exe
