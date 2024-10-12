@@ -1,0 +1,14 @@
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.AssemblyInfoInputs.cache
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.AssemblyInfo.cs
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.csproj.CoreCompileInputs.cache
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.exe
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.deps.json
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.runtimeconfig.json
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.dll
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.pdb
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.dll
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\refint\Lab_03.dll
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.pdb
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.genruntimeconfig.cache
+D:\Univer\2 kurs\OOP\Lab_03\Lab_03\obj\Debug\net6.0\ref\Lab_03.dll
