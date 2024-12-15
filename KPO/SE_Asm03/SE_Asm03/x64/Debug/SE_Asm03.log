@@ -1,0 +1,10 @@
+﻿  Assembling asm03.asm...
+asm03.asm(1): error A2008: syntax error : .
+asm03.asm(2): error A2008: syntax error : .
+asm03.asm(9): error A2008: syntax error : .
+asm03.asm(57): error A2008: syntax error : MessageBoxA
+asm03.asm(61): error A2008: syntax error : MessageBoxA
+asm03.asm(69): error A2008: syntax error : main
+asm03.asm(69): error A2088: END directive required at end of file
+asm03.asm(30): error A2229: cannot use labels and 32-bit addressing in the same expression
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\asm03.obj" /W3 /errorReport:prompt  /Taasm03.asm" с кодом "1".
