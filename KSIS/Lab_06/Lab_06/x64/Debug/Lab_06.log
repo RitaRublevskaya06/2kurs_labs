@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Univer\2 kurs\KSIS\Lab_06\Lab_06\main.cpp(41,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Lab_06.vcxproj -> D:\Univer\2 kurs\KSIS\Lab_06\x64\Debug\Lab_06.exe
