@@ -1,0 +1,4 @@
+﻿  In.cpp
+D:\Univer\2 kurs\KPO\Lab_17_2\SE_Lab17\SE_Lab17\In.cpp(192,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\KPO\Lab_17_2\SE_Lab17\SE_Lab17\In.cpp(196,34): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  SE_Lab17.vcxproj -> D:\Univer\2 kurs\KPO\Lab_17_2\SE_Lab17\Debug\SE_Lab17.exe

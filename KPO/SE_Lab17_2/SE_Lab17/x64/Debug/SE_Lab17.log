@@ -1,0 +1,90 @@
+﻿Сборка начата 18.09.2024 10:09:44.
+Уровень детализации журнала: Normal.     1>Проект "E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Error.cpp Fst.cpp In.cpp IT.cpp Lexer.cpp Log.cpp LT.cpp Out.cpp Parm.cpp SE_lab17.cpp
+         Error.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "Error.cpp")
+         
+         Fst.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "Fst.cpp")
+         
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\Fst.cpp(67,23): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         In.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "In.cpp")
+         
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\In.cpp(89,34): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+         IT.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "IT.cpp")
+         
+         Lexer.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "Lexer.cpp")
+         
+         Log.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "Log.cpp")
+         
+         LT.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "LT.cpp")
+         
+         Out.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "Out.cpp")
+         
+         Parm.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "Parm.cpp")
+         
+         SE_lab17.cpp
+     1>E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         (компиляция исходного файла "SE_lab17.cpp")
+         
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\КПО\SE_Lab17\SE_Lab17\x64\Debug\SE_Lab17.exe" /INCREMENTAL /ILK:"x64\Debug\SE_Lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\КПО\SE_Lab17\SE_Lab17\x64\Debug\SE_Lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\КПО\SE_Lab17\SE_Lab17\x64\Debug\SE_Lab17.lib" /MACHINE:X64 x64\Debug\Error.obj
+         x64\Debug\Fst.obj
+         x64\Debug\In.obj
+         x64\Debug\IT.obj
+         x64\Debug\Lexer.obj
+         x64\Debug\Log.obj
+         x64\Debug\LT.obj
+         x64\Debug\Out.obj
+         x64\Debug\Parm.obj
+         x64\Debug\SE_lab17.obj
+         SE_Lab17.vcxproj -> E:\КПО\SE_Lab17\SE_Lab17\x64\Debug\SE_Lab17.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SE_Lab17.tlog\SE_Lab17.lastbuildstate".
+     1>Сборка проекта "E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\Fst.cpp(67,23): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\In.cpp(89,34): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         E:\КПО\SE_Lab17\SE_Lab17\SE_Lab17\IT.h(34,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+
+    Предупреждений: 12
+    Ошибок: 0
+
+Прошло времени 00:00:04.40
