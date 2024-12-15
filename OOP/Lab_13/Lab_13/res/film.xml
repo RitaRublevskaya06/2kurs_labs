@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Name>Фильм 1</Name>
+    <TimeDay>Morning</TimeDay>
+    <Year>2024</Year>
+  </Film>
+  <Film>
+    <Name>Фильм 2</Name>
+    <TimeDay>Morning</TimeDay>
+    <Year>2024</Year>
+  </Film>
+</ArrayOfFilm>

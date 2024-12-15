@@ -1,0 +1,17 @@
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.AssemblyInfoInputs.cache
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.AssemblyInfo.cs
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.csproj.CoreCompileInputs.cache
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\bin\Debug\net6.0\Lab_13.exe
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\bin\Debug\net6.0\Lab_13.deps.json
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\bin\Debug\net6.0\Lab_13.runtimeconfig.json
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\bin\Debug\net6.0\Lab_13.dll
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\bin\Debug\net6.0\Lab_13.pdb
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\bin\Debug\net6.0\SoapFormatter.dll
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.csproj.AssemblyReference.cache
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.csproj.CopyComplete
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.dll
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\refint\Lab_13.dll
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.pdb
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\Lab_13.genruntimeconfig.cache
+D:\Univer\2 kurs\OOP\Lab_13\Lab_13\obj\Debug\net6.0\ref\Lab_13.dll

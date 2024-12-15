@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tree>
+  <NewNode name="Node" newAtr="1" />
+  <NewNode name="Node2" newAtr="2" />
+</Tree>

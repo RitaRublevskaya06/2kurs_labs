@@ -1,0 +1,15 @@
+Список папок:
+D:\$RECYCLE.BIN
+D:\KSIS
+D:\ksis2
+D:\rar
+D:\System Volume Information
+D:\Univer
+D:\Users
+D:\Документы
+D:\Книги
+D:\Музыка
+D:\Фото
+Список файлов:
+D:\DumpStack.log.tmp
+D:\pagefile.sys
