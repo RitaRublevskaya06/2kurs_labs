@@ -1,0 +1,12 @@
+﻿  Error.cpp
+  In.cpp
+D:\Univer\2 kurs\KPO\Lab_17_1\SELab17\SELab17\In.cpp(198,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\KPO\Lab_17_1\SELab17\SELab17\In.cpp(203,34): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Log.cpp
+  Out.cpp
+D:\Univer\2 kurs\KPO\Lab_17_1\SELab17\SELab17\Out.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\KPO\Lab_17_1\SELab17\SELab17\Out.cpp(45,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Parm.cpp
+  SELab17.cpp
+  Создание кода...
+  SELab17.vcxproj -> D:\Univer\2 kurs\KPO\Lab_17_1\SELab17\Debug\SELab17.exe
