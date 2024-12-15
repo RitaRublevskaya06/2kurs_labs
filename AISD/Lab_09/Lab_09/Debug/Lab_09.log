@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(26,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(40,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(61,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(197,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(220,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(251,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(252,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(299,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\2 kurs\AISD\Lab_09\Lab_09\main.cpp(337,50): warning C4018: >=: несоответствие типов со знаком и без знака
+  Lab_09.vcxproj -> D:\Univer\2 kurs\AISD\Lab_09\Debug\Lab_09.exe
