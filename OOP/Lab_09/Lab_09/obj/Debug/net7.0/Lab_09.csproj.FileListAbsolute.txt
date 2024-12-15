@@ -1,0 +1,14 @@
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\bin\Debug\net7.0\Lab_09.exe
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\bin\Debug\net7.0\Lab_09.deps.json
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\bin\Debug\net7.0\Lab_09.runtimeconfig.json
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\bin\Debug\net7.0\Lab_09.dll
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\bin\Debug\net7.0\Lab_09.pdb
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.AssemblyInfoInputs.cache
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.AssemblyInfo.cs
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.csproj.CoreCompileInputs.cache
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.dll
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\refint\Lab_09.dll
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.pdb
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\Lab_09.genruntimeconfig.cache
+D:\Univer\2 kurs\OOP\Lab_09\Lab_09\obj\Debug\net7.0\ref\Lab_09.dll
