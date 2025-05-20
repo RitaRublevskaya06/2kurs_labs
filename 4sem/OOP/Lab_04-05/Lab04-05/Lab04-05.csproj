@@ -1,0 +1,95 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Lab04_05</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Cursors\AppStarting.ani" />
+    <None Remove="Data\Products.json" />
+    <None Remove="Data\ProductType.json" />
+    <None Remove="images\AbdominalUltrasound.jpg" />
+    <None Remove="images\AcneTreatment.jpg" />
+    <None Remove="images\AllergyTest.jpg" />
+    <None Remove="images\AnxietyTherapy.jpg" />
+    <None Remove="images\Botox.jpg" />
+    <None Remove="images\CardiacConsult.jpg" />
+    <None Remove="images\ChemicalPeel.jpg" />
+    <None Remove="images\CholesterolCheck.jpg" />
+    <None Remove="images\CouplesTherapy.jpg" />
+    <None Remove="images\DentalCheckUp.jpg" />
+    <None Remove="images\DentalFilling.jpg" />
+    <None Remove="images\DepressionTherapy.jpg" />
+    <None Remove="images\ECG.jpg" />
+    <None Remove="images\EEG.jpg" />
+    <None Remove="images\HipMRI.jpg" />
+    <None Remove="images\iconB.ico" />
+    <None Remove="images\icons8-align-left-16.png" />
+    <None Remove="images\logo.png" />
+    <None Remove="images\KneeJointConsultation.jpg" />
+    <None Remove="images\LaserHairRemoval.jpg" />
+    <None Remove="images\MigraineTreatment.jpg" />
+    <None Remove="images\NeuroExam.jpg" />
+    <None Remove="images\PregnancyUltrasound.jpg" />
+    <None Remove="images\PsoriasisTreatment.jpg" />
+    <None Remove="images\SpineAlignment.jpg" />
+    <None Remove="images\TeethWhitening.jpg" />
+    <None Remove="images\ThyroidUltrasound.jpg" />
+    <None Remove="Resources\Products.json" />
+    <None Remove="Resources\ProductType.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\Products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\ProductType.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts" Version="0.9.7" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="MaterialDesignColors" Version="2.1.2" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.8.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Cursors\AppStarting.ani">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\AbdominalUltrasound.jpg" />
+    <Resource Include="images\AcneTreatment.jpg" />
+    <Resource Include="images\AllergyTest.jpg" />
+    <Resource Include="images\AnxietyTherapy.jpg" />
+    <Resource Include="images\Botox.jpg" />
+    <Resource Include="images\CardiacConsult.jpg" />
+    <Resource Include="images\ChemicalPeel.jpg" />
+    <Resource Include="images\CholesterolCheck.jpg" />
+    <Resource Include="images\CouplesTherapy.jpg" />
+    <Resource Include="images\DentalCheckUp.jpg" />
+    <Resource Include="images\DentalFilling.jpg" />
+    <Resource Include="images\DepressionTherapy.jpg" />
+    <Resource Include="images\ECG.jpg" />
+    <Resource Include="images\EEG.jpg" />
+    <Resource Include="images\HipMRI.jpg" />
+    <Resource Include="images\iconB.ico" />
+    <Resource Include="images\icons8-align-left-16.png" />
+    <Resource Include="images\logo.png" />
+    <Resource Include="images\KneeJointConsultation.jpg" />
+    <Resource Include="images\LaserHairRemoval.jpg" />
+    <Resource Include="images\MigraineTreatment.jpg" />
+    <Resource Include="images\NeuroExam.jpg" />
+    <Resource Include="images\PregnancyUltrasound.jpg" />
+    <Resource Include="images\PsoriasisTreatment.jpg" />
+    <Resource Include="images\SpineAlignment.jpg" />
+    <Resource Include="images\TeethWhitening.jpg" />
+    <Resource Include="images\ThyroidUltrasound.jpg" />
+  </ItemGroup>
+
+</Project>
