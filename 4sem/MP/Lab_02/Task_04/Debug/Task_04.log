@@ -1,0 +1,6 @@
+﻿  Combi.cpp
+  Combi.h
+  main.cpp
+  Создание кода...
+Debug\Combi.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Task_04.vcxproj -> D:\Univer\2 kurs\4_sem\MP\Lab_02\Debug\Task_04.exe
