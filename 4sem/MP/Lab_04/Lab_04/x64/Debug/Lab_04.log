@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Univer\2 kurs\4_sem\MP\Lab_04\Lab_04\main.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Univer\2 kurs\4_sem\MP\Lab_04\Lab_04\main.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Univer\2 kurs\4_sem\MP\Lab_04\Lab_04\main.cpp(85,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть D:\Univer\2 kurs\4_sem\MP\Lab_04\x64\Debug\Lab_04.exe для записи

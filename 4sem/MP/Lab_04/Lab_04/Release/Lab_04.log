@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Univer\2 kurs\4_sem\MP\Lab_04\Lab_04\main.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Univer\2 kurs\4_sem\MP\Lab_04\Lab_04\main.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Univer\2 kurs\4_sem\MP\Lab_04\Lab_04\main.cpp(85,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab_04.vcxproj -> D:\Univer\2 kurs\4_sem\MP\Lab_04\Release\Lab_04.exe
