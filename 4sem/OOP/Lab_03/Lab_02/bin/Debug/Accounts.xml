@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Owner>
+      <FIO>Иванов Иван Иванович</FIO>
+      <Passport>NK3698524</Passport>
+      <BirthDate>2000-10-25T00:00:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>147852</AccoyntNumber>
+    <AccountType>Текущий </AccountType>
+    <Balance>1000</Balance>
+    <OpenDate>2025-03-05T18:07:44.6618037+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>true</InternetBanking>
+  </Account>
+  <Account>
+    <Owner>
+      <FIO>Петров Петр Петрович</FIO>
+      <Passport>KH1239638</Passport>
+      <BirthDate>2025-03-05T18:07:44.6818228+03:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>987456</AccoyntNumber>
+    <AccountType>Депозитный</AccountType>
+    <Balance>680</Balance>
+    <OpenDate>2025-03-05T18:08:29.831121+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>true</InternetBanking>
+  </Account>
+  <Account>
+    <Owner>
+      <FIO>Андреев Ян Александрович</FIO>
+      <Passport>KH3657842</Passport>
+      <BirthDate>2000-10-06T00:00:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>445855</AccoyntNumber>
+    <AccountType>Текущий </AccountType>
+    <Balance>1000</Balance>
+    <OpenDate>2025-03-05T18:09:42.3466512+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>true</InternetBanking>
+  </Account>
+  <Account>
+    <Owner>
+      <FIO>Яков Ян Антонович</FIO>
+      <Passport>KH3988752</Passport>
+      <BirthDate>1999-05-18T00:00:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>852945</AccoyntNumber>
+    <AccountType>Бюджетный</AccountType>
+    <Balance>1000</Balance>
+    <OpenDate>2025-03-05T18:15:54.9093074+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>true</InternetBanking>
+  </Account>
+  <Account>
+    <Owner>
+      <FIO>Иванов Сергей Иванович</FIO>
+      <Passport>HK3325561</Passport>
+      <BirthDate>2007-02-02T00:00:00</BirthDate>
+    </Owner>
+    <AccoyntNumber>758554</AccoyntNumber>
+    <AccountType>Текущий </AccountType>
+    <Balance>1000</Balance>
+    <OpenDate>2025-03-05T20:00:06.9095455+03:00</OpenDate>
+    <SMSNotifications>true</SMSNotifications>
+    <InternetBanking>true</InternetBanking>
+  </Account>
+</ArrayOfAccount>
