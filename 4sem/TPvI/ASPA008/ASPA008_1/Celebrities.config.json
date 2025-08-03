@@ -1,0 +1,13 @@
+{
+  // Celebrities.config.json
+  // -- PhotoRequestPath     - префикс в URI запроса
+  // -- PhotosFolder         - директория с папками
+  // -- ConnectionString     - строка подключения к бд
+  // -- ISO3166alpha2Path    - путь к файлу записей про страны
+  "Celebrities": {
+    "PhotoRequestPath": "/Photos",
+    "PhotosFolder": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA008\\ASPA008_1\\Photos",
+    "ConnectionString": "Data Source=LENOVO-HOME\\SQLEXPESS1;Database=LifeEventsOfCelebrities;Trusted_Connection=True;User Id=sa;Password=sa;TrustServerCertificate=True;",
+    "ISO3166alpha2Path": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA008\\ASPA008_1\\CountryCodes\\Лабораторная_08__iso3166-1-alpha2-country-codes.json"
+  }
+}

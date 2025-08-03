@@ -1,0 +1,148 @@
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.exe
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.deps.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.runtimeconfig.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.AssemblyInfo.cs
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Cele.87A29E2D.Up2Date
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\refint\DAL_Celebrity_MSSQL_Test.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.genruntimeconfig.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 6\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\ref\DAL_Celebrity_MSSQL_Test.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.exe
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.deps.json
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.runtimeconfig.json
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL_Test.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Azure.Core.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Azure.Identity.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.ClientModel.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Text.Json.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.csproj.AssemblyReference.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.AssemblyInfoInputs.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.AssemblyInfo.cs
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.csproj.CoreCompileInputs.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Cele.87A29E2D.Up2Date
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\refint\DAL_Celebrity_MSSQL_Test.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\DAL_Celebrity_MSSQL_Test.genruntimeconfig.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006_5\DAL_Celebrity\DAL_Celebrity\DAL_Celebrity_MSSQL_Test\obj\Debug\net8.0\ref\DAL_Celebrity_MSSQL_Test.dll

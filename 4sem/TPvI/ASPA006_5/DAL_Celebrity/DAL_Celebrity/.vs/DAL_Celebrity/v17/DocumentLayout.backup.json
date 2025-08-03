@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB4941-0894-4EF7-B5C5-819F0826E759}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|d:\\univer\\2 kurs\\4_sem\\tpvi\\aspa006_5\\dal_celebrity\\dal_celebrity\\dal_celebrity_mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB4941-0894-4EF7-B5C5-819F0826E759}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|solutionrelative:dal_celebrity_mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4802B0-A695-4B4B-B9E6-7C723684FC64}|DAL_Celebrity\\DAL_Celebrity.csproj|d:\\univer\\2 kurs\\4_sem\\tpvi\\aspa006_5\\dal_celebrity\\dal_celebrity\\dal_celebrity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4802B0-A695-4B4B-B9E6-7C723684FC64}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173CA526-D24E-4048-B5F7-5E82A838DAB9}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|d:\\univer\\2 kurs\\4_sem\\tpvi\\aspa006_5\\dal_celebrity\\dal_celebrity\\dal_celebrity_mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{173CA526-D24E-4048-B5F7-5E82A838DAB9}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 647,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:46:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\DAL_Celebrity_MSSQL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Class1.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\DAL_Celebrity_MSSQL\\Class1.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Class1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:31:03.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\DAL_Celebrity\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\Class1.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\DAL_Celebrity\\DAL_Celebrity\\DAL_Celebrity\\Class1.cs",
+              "RelativeToolTip": "DAL_Celebrity\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:55:16.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

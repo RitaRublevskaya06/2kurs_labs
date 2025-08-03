@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "YUe/5qFpdNJoxHa5lMLMSV5BMyqkB9CaGlcC5fNJZLE=",
+  "Source": "ASPA002",
+  "BasePath": "_content/ASPA002",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA002\\wwwroot",
+      "Source": "ASPA002",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\",
+      "BasePath": "_content/ASPA002",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\css\\index.css",
+      "SourceId": "ASPA002",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\",
+      "BasePath": "_content/ASPA002",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8c4k1efmhl",
+      "Integrity": "+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\index.html",
+      "SourceId": "ASPA002",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\",
+      "BasePath": "_content/ASPA002",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "77mdy5cgif",
+      "Integrity": "owfNx1B2Js9hXFLRdfo/52zsrFWjwTBJGpM67n2VqAA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\jpg\\Neumann.jpg",
+      "SourceId": "ASPA002",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\",
+      "BasePath": "_content/ASPA002",
+      "RelativePath": "jpg/Neumann#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7op20yuh95",
+      "Integrity": "d9auynvsm0xY/uBSJUQCJW/CXkw9hg9unbdmvmzGtXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jpg\\Neumann.jpg"
+    },
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\js\\Calc.js",
+      "SourceId": "ASPA002",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\",
+      "BasePath": "_content/ASPA002",
+      "RelativePath": "js/Calc#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsy07xolzw",
+      "Integrity": "1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Calc.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/index.8c4k1efmhl.css",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:55:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8c4k1efmhl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:55:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o="
+        }
+      ]
+    },
+    {
+      "Route": "index.77mdy5cgif.html",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"owfNx1B2Js9hXFLRdfo/52zsrFWjwTBJGpM67n2VqAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 14:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "77mdy5cgif"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-owfNx1B2Js9hXFLRdfo/52zsrFWjwTBJGpM67n2VqAA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"owfNx1B2Js9hXFLRdfo/52zsrFWjwTBJGpM67n2VqAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 14:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-owfNx1B2Js9hXFLRdfo/52zsrFWjwTBJGpM67n2VqAA="
+        }
+      ]
+    },
+    {
+      "Route": "jpg/Neumann.7op20yuh95.jpg",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\jpg\\Neumann.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d9auynvsm0xY/uBSJUQCJW/CXkw9hg9unbdmvmzGtXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 15:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7op20yuh95"
+        },
+        {
+          "Name": "label",
+          "Value": "jpg/Neumann.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d9auynvsm0xY/uBSJUQCJW/CXkw9hg9unbdmvmzGtXc="
+        }
+      ]
+    },
+    {
+      "Route": "jpg/Neumann.jpg",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\jpg\\Neumann.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d9auynvsm0xY/uBSJUQCJW/CXkw9hg9unbdmvmzGtXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 15:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d9auynvsm0xY/uBSJUQCJW/CXkw9hg9unbdmvmzGtXc="
+        }
+      ]
+    },
+    {
+      "Route": "js/Calc.js",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\js\\Calc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:32:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk="
+        }
+      ]
+    },
+    {
+      "Route": "js/Calc.qsy07xolzw.js",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002\\wwwroot\\js\\Calc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:32:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsy07xolzw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Calc.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk="
+        }
+      ]
+    }
+  ]
+}

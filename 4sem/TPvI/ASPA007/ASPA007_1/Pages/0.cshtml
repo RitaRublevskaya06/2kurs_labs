@@ -1,0 +1,119 @@
+﻿@page
+@model ASPA007_1.Pages._0Model
+@{
+    ViewData["Title"] = "Form";
+}
+<style>
+    .formstyle {
+        border-radius: 8px;
+        padding:0px;
+    }
+    .inputs {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .input-group {
+        display: flex;
+        gap: 10px;
+    }
+    .inputname, .inputnat {
+        flex: 1;
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    .inputfile {
+        width: 0.1px;
+        height: 0.1px;
+        opacity: 0;
+        overflow: hidden;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .file-input-container {
+        position: relative;
+        width: 100%;
+    }
+
+    .file-input-label {
+        display: block;
+        width: 100%;
+        padding: 15px;
+        background: #f8f9fa;
+        border: 2px solid black;
+        border-radius: 5px;
+        text-align: center;
+        color: #6c757d;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+    .inputfile::-webkit-file-upload-button,
+    .inputfile::file-selector-button {
+        display: none;
+    }
+
+    .buttons-group {
+        display: flex;
+        gap: 10px;
+    }
+    .celebrityimage {
+        display: block;
+        margin: 0 20px 0 0;
+    }
+    .submitbtn {
+        background: #f5f5f5;
+        flex: 1;
+        padding: 12px;
+        border: 2px solid black;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+</style>
+<div>
+    <h2>New Celebrity</h2>
+    @if (!Model.isCorrect)
+    {
+        <form id="form1" method="post" class="formstyle" enctype="multipart/form-data">
+            <img class="celebrityimage" src="~/photo/iconka.png" alt="Celebrity Icon" />
+            <div class="inputs">
+                <div class="input-group">
+                    <input type="text" name="name" class="inputname" placeholder="Celebrities Name" required />
+                    <input type="text" name="nation" class="inputnat" placeholder="Nationality" required />
+                </div>
+                <div class="file-input-container">
+                    <input type="file" name="photo" id="fileInput" class="inputfile" required
+                           title=" " onchange="document.getElementById('fileLabel').innerText = this.files[0] ? this.files[0].name : 'Upload Photo'">
+                    <label for="fileInput" class="file-input-label" id="fileLabel">Upload Photo</label>
+                </div>
+                <div class="buttons-group">
+                    <input id="form1submit" type="submit" class="submitbtn" asp-page-handler="Render" value="OK" />
+                    <input id="form1cancel" type="submit" class="submitbtn" asp-page-handler="Cancel" value="CANCEL" />
+                </div>
+            </div>
+        </form>
+    }
+    @if (Model.isCorrect)
+    {
+        <form id="form2" method="post" class="formstyle" enctype="multipart/form-data">
+            <img name="photosave" class="celebrityimage" src="@Model._filePath" />
+            <div class="inputs">
+                <div>
+                    <input name="namesave" type="text" class="inputname" value="@Model._name" />
+                </div>
+                <div>
+                    <input name="nationsave" class="inputnat" type="text" value="@Model._nation" />
+                </div>
+                <div>
+                    <input type="submit" class="submitbtn" asp-page-handler="Save" value="CONFIRMATION" />
+                </div>
+                <div>
+                    <input id="form2cancel" type="submit" class="submitbtn" asp-page-handler="Cancel" value="CANCEL" />
+                </div>
+            </div>
+        </form>
+    }
+</div>

@@ -1,0 +1,43 @@
+﻿@using DAL_Celebrity_MSSQL;
+@using System.Globalization;
+@using ASPA008_1.Controllers;
+@model CelebritiesController.HumanModel;
+@{
+    Layout = "_CelebritiesLayout";
+    Celebrity celebrity = Model.celebrity;
+    Dictionary<string, string> references = Model.references ?? new Dictionary<string, string>();
+    string photopath = $"{Model.photosrequespath}/{celebrity.ReqPhotoPath}";
+}
+
+@* @section subhead{<h2>Celebrities/Human/@ViewBag.id = @ViewData["id"]</h2>} *@
+@section subhead{
+
+}
+
+<div style="display:flex; flex-direction:column" class="all">
+    <div class="forButton">
+        <button onclick="location.href='@Url.Action("DeleteHumanForm", "Celebrities", new { id = celebrity.Id })'" class="change">Delete</button>
+        <button onclick="location.href='@Url.Action("EditHumanForm", "Celebrities", new { id = celebrity.Id })'" class="change">Edit</button>
+    </div>
+    <div style="display:flex;">
+        <div class="celebrity-box" style="margin-top: 20px">
+            @Html.CelebrityPhoto(celebrity.Id, celebrity.FullName, photopath, 300, 0)
+        </div>
+        <div class="celebrity-box dop">
+            <h2 style="margin-bottom: 20px;">@celebrity.FullName</h2>
+            @foreach(Lifeevent live in Model.lifeevents)
+            {
+                <p>@live.Date?.ToString("dd.MM.yyyy", CultureInfo.InvariantCulture) @live.Description</p>
+            }
+        </div>
+    </div>
+    <div style="display:flex; flex-direction:column; width:100%; margin-top: 40px;">
+        @foreach (KeyValuePair<string, string> info in references)
+        {
+            <a id="@info.Key" href="@info.Value" target="_blank" hidden>@info.Key</a>
+            <button onclick="document.getElementById('@info.Key').click();">@info.Key</button>
+        }
+    </div>
+</div>
+@section foot{}
+

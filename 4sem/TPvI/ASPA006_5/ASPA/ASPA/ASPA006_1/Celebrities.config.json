@@ -1,0 +1,6 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolder": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA006_5\\Celebrities",
+    "ConnectionString": "Server=LENOVO-HOME\\SQLEXPESS1;Database=LifeEventsOfCelebrities;Trusted_Connection=True;User Id=sa;Password=sa;TrustServerCertificate=True;"
+  }
+}

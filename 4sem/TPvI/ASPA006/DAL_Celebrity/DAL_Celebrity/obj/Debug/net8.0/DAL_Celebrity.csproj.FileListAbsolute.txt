@@ -1,0 +1,12 @@
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.deps.json
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.AssemblyReference.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfoInputs.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfo.cs
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.CoreCompileInputs.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\refint\DAL_Celebrity.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA006\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\ref\DAL_Celebrity.dll

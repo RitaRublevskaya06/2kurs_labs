@@ -1,0 +1,91 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+li {
+    display: inline-block;
+}
+
+.celebrityimage, .photocel {
+    height: 200px;
+}
+
+.formstyle {
+    padding: 3px 0 3px 0;
+    display: flex;
+    align-items: center;
+    background-color: #876726;
+    width: max-content;
+}
+
+.inputs {
+    padding: 0px 3px 0 3px;
+}
+
+.submitbtn {
+    width: 210px;
+}
+
+.inputname {
+    width: 330px;
+}
+
+.inputnat {
+    width: 90px;
+}
+
+.inputfile {
+    width: 420px;
+}
+
+/* Life Events Page */
+.timeline {
+    position: relative;
+    margin: 2rem 0;
+}
+
+.timeline-item {
+    margin-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+    .timeline-item::before {
+        content: '';
+        position: absolute;
+        left: -0.7rem;
+        top: 0.3rem;
+        width: 1.2rem;
+        height: 1.2rem;
+        background: #258cfb;
+        border-radius: 50%;
+        border: 3px solid white;
+    }
+
+.card {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: none;
+    overflow: hidden;
+}
+
+    .card:hover {
+        box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+    }

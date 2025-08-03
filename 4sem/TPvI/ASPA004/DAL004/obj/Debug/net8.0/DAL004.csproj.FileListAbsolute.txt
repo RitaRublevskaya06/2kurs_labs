@@ -1,0 +1,12 @@
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\bin\Debug\net8.0\DAL004.deps.json
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\bin\Debug\net8.0\DAL004.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\bin\Debug\net8.0\DAL004.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfoInputs.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfo.cs
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.csproj.CoreCompileInputs.cache
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\refint\DAL004.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.pdb
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\ref\DAL004.dll
+D:\Univer\2 kurs\4_sem\TPvI\ASPA004\DAL004\obj\Debug\net8.0\DAL004.csproj.AssemblyReference.cache

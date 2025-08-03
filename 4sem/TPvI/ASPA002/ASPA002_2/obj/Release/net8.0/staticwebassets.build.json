@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "VhenusSKAQAhi+yR+4zOrltAKAIWEAvpNnMolE6S43U=",
+  "Source": "ASPA002_2",
+  "BasePath": "_content/ASPA002_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA002_2\\wwwroot",
+      "Source": "ASPA002_2",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\css\\index.css",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8c4k1efmhl",
+      "Integrity": "+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\js\\Calc.js",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "js/Calc#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsy07xolzw",
+      "Integrity": "1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Calc.js"
+    },
+    {
+      "Identity": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\Neumann.html",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "Neumann#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "crpesipid0",
+      "Integrity": "6K2NYBkAowtHs7vmuQr9oigrO5LPT/pEPV6daoOYuLk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Neumann.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/index.8c4k1efmhl.css",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:55:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8c4k1efmhl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:55:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+FsNU35LKyde+PYFiNMDLOiKpdKKAGHh9BQyXvmGK7o="
+        }
+      ]
+    },
+    {
+      "Route": "js/Calc.js",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\js\\Calc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:32:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk="
+        }
+      ]
+    },
+    {
+      "Route": "js/Calc.qsy07xolzw.js",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\js\\Calc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 12:32:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsy07xolzw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Calc.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gR1xQ9rTGnZwXHPpjoB9L+iZTfLifRMrunithBgrgk="
+        }
+      ]
+    },
+    {
+      "Route": "Neumann.crpesipid0.html",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\Neumann.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K2NYBkAowtHs7vmuQr9oigrO5LPT/pEPV6daoOYuLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 14:48:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "crpesipid0"
+        },
+        {
+          "Name": "label",
+          "Value": "Neumann.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K2NYBkAowtHs7vmuQr9oigrO5LPT/pEPV6daoOYuLk="
+        }
+      ]
+    },
+    {
+      "Route": "Neumann.html",
+      "AssetFile": "D:\\Univer\\2 kurs\\4_sem\\TPvI\\ASPA002\\ASPA002_2\\wwwroot\\Neumann.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K2NYBkAowtHs7vmuQr9oigrO5LPT/pEPV6daoOYuLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 14:48:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K2NYBkAowtHs7vmuQr9oigrO5LPT/pEPV6daoOYuLk="
+        }
+      ]
+    }
+  ]
+}
