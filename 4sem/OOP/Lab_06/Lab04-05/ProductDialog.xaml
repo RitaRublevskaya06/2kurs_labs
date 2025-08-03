@@ -1,0 +1,113 @@
+﻿<Window x:Class="Lab04_05.ProductDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:MyControl="clr-namespace:MyLib;assembly=MyLib"
+        xmlns:local="clr-namespace:Lab04_05"
+        xmlns:w="clr-namespace:Lab04_05"
+        mc:Ignorable="d"
+        Title="ProductDialog"  Height="692" Width="400"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None">
+    <Window.CommandBindings>
+        <CommandBinding Command="w:Command.AddCommand" Executed="AddProduct"></CommandBinding>
+        <CommandBinding Command="w:Command.AddImageCommand" Executed="AddImage"></CommandBinding>
+        <CommandBinding Command="w:Command.UpdateCommand" Executed="EditProductInfo"></CommandBinding>
+        <CommandBinding Command="w:Command.CloseCommand" Executed="Close"></CommandBinding>
+    </Window.CommandBindings>
+    <Border BorderBrush="#FF0831B1" BorderThickness="2" MouseDown="Border_MouseDown">
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="6*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="47*"/>
+                <RowDefinition Height="47*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="122*"/>
+                <RowDefinition Height="122*"/>
+                <RowDefinition Height="82*"/>
+            </Grid.RowDefinitions>
+
+            <TextBox x:Name="nameFieldRus" Width="350" Height="40" TabIndex="1"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                 materialDesign:HintAssist.Hint="{DynamicResource ProductNameRus}"
+                 HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,52,0,0" Grid.ColumnSpan="3" Grid.RowSpan="2" CaretBrush="#FF0831B1" SelectionBrush="RoyalBlue"/>
+
+            <TextBox x:Name="priceField"  Grid.Row="3" Width="350" TabIndex="3"
+                    Height="40" 
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint="{DynamicResource Price}"
+                   HorizontalAlignment="Left" VerticalAlignment="Top" Margin="18,6,0,0" Grid.ColumnSpan="3" SelectionBrush="RoyalBlue" CaretBrush="#FF0831B1"/>
+
+            <ListBox Grid.Row="4"
+                    Style="{StaticResource MaterialDesignChoiceChipPrimaryOutlineListBox}"
+                x:Name="ProductType" Margin="9,9,16,105" Grid.RowSpan="3" Grid.ColumnSpan="3">
+                <ListBoxItem x:Name="type1" TabIndex="5"
+                        Content="{DynamicResource Diagnostics}" />
+                <ListBoxItem x:Name="type2" TabIndex="6"
+                        Content="{DynamicResource Stomatology}" />
+                <ListBoxItem x:Name="type3" TabIndex="7"
+                         Content="{DynamicResource Orthopedics}" />
+                <ListBoxItem  x:Name="type4" TabIndex="8"                    
+                         Content="{DynamicResource Neurology}" />
+                <ListBoxItem x:Name="type5" TabIndex="5"
+                         Content="{DynamicResource Cardiology}" />
+                <ListBoxItem x:Name="type6" TabIndex="6"
+                         Content="{DynamicResource Dermatology}" />
+                <ListBoxItem x:Name="type7" TabIndex="7"
+                         Content="{DynamicResource Psychology }" />
+                <ListBoxItem  x:Name="type8" TabIndex="8"                    
+                         Content="{DynamicResource Cosmetology}" />
+            </ListBox>
+
+            <MyControl:CustomControl1 Click="Close" HorizontalAlignment="Left" Grid.Column="2" Margin="130,-1,0,0" Cursor="Hand">
+            </MyControl:CustomControl1>
+
+
+            <Rectangle x:Name="image" Grid.Row="7" Width="100" Height="100" Margin="55,17,43,18" AllowDrop="True" Drop="ImagePanel_Drop" 
+             DragLeave="Drop_DragLeave" DragEnter="Drop_DragEnter" Stroke="#FF0831B1" StrokeDashArray="3" Grid.Column="2">
+            </Rectangle>
+            <Button Command="w:Command.AddImageCommand" TabIndex="11"
+                  Style="{StaticResource MidButton}"
+                  Content="{DynamicResource AddImage}" Margin="11,51,183,52" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="1"
+                />
+
+
+            <Button x:Name="EditBtn" Command="w:Command.UpdateCommand" TabIndex="12"
+          Style="{StaticResource MidButton}"            
+          Content="{DynamicResource Edit}" Margin="52,26,97,25" Grid.Row="8" Height="40" Grid.ColumnSpan="2" Grid.Column="1"    
+         />
+
+            <Button x:Name="AddBtn" Command="w:Command.AddCommand" Visibility="Collapsed" TabIndex="12"
+          Style="{StaticResource MidButton}"            
+          Content="{DynamicResource Add}" Margin="52,26,97,25" Grid.Row="8" Height="40" Grid.ColumnSpan="2" Grid.Column="1"    
+         />
+            <TextBox x:Name="nameFieldEn" Grid.Row="2" Width="350" Height="40" TabIndex="2"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                materialDesign:HintAssist.Hint="{DynamicResource ProductNameEn}"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,7,0,0" Grid.ColumnSpan="3" SelectionBrush="RoyalBlue" CaretBrush="#FF0831B1"/>
+            <TextBox x:Name="descriptionFieldRus" Grid.Row="6" Width="178" Height="115" TextWrapping="Wrap" TabIndex="9"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                materialDesign:HintAssist.Hint="{DynamicResource ProductDescriptionRus}"
+                HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Grid.ColumnSpan="2" SelectionBrush="RoyalBlue" CaretBrush="#FF0831B1"/>
+            <TextBox x:Name="descriptionFieldEn" Grid.Row="6" Width="178" Height="115" TextWrapping="Wrap" TabIndex="10"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                materialDesign:HintAssist.Hint="{DynamicResource ProductDescriptionEn}"
+                HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="2" Margin="15,0,0,0" CaretBrush="#FF0831B1" SelectionBrush="RoyalBlue"/>
+
+
+
+        </Grid>
+    </Border>
+</Window>
+

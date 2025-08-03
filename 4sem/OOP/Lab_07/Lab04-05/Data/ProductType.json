@@ -1,0 +1,34 @@
+[
+  {
+    "ProductTypeId": 1,
+    "PType": "Diagnostics"
+  },
+  {
+    "ProductTypeId": 2,
+    "PType": "Stomatology"
+  },
+  {
+    "ProductTypeId": 3,
+    "PType": "Orthopedics"
+  },
+  {
+    "ProductTypeId": 4,
+    "PType": "Neurology"
+  },
+  {
+    "ProductTypeId": 5,
+    "PType": "Cardiology"
+  },
+  {
+    "ProductTypeId": 6,
+    "PType": "Dermatology"
+  },
+  {
+    "ProductTypeId": 7,
+    "PType": "Psychology"
+  },
+  {
+    "ProductTypeId": 8,
+    "PType": "Cosmetology"
+  }
+]

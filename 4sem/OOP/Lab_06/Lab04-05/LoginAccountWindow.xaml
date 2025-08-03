@@ -1,0 +1,28 @@
+﻿<Window x:Class="Lab04_05.LoginAccountWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Вход в личный кабинет" 
+        Height="300" Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBox x:Name="txtUsername" 
+                     materialDesign:HintAssist.Hint="Логин" 
+                     Margin="0,0,0,10" 
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+            <PasswordBox x:Name="txtPassword" 
+                         materialDesign:HintAssist.Hint="Пароль" 
+                         Margin="0,0,0,20"
+                         Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+            <Button Content="Войти" 
+                    Click="LoginButton_Click"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource LightButton}" 
+                    Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

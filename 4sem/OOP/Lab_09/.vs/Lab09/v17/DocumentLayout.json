@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\ex1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\ex1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_09\\lab09\\code-first\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\ex2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\ex2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\models-code-first\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\models-code-first\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\models-code-first\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\models-code-first\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\ex1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\ex1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\ex2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\ex2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\lab09\\code-first\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{915C8115-7EF3-47CB-A643-0521374DC6A8}|Lab09\\Lab09.csproj|solutionrelative:lab09\\code-first\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Page2.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Page2.xaml.cs",
+              "RelativeToolTip": "Lab09\\Code-First\\Page2.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:31:10.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex1.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex1.xaml.cs",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Ex1.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex1.xaml.cs",
+              "RelativeToolTip": "Lab09\\Code-First\\Ex1.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:52:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Models-Code-First\\DBContext.cs",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Models-Code-First\\DBContext.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Models-Code-First\\DBContext.cs",
+              "RelativeToolTip": "Lab09\\Code-First\\Models-Code-First\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:16:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex2.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex2.xaml.cs",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Ex2.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex2.xaml.cs",
+              "RelativeToolTip": "Lab09\\Code-First\\Ex2.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:11:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Models-Code-First\\Person.cs",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Models-Code-First\\Person.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Models-Code-First\\Person.cs",
+              "RelativeToolTip": "Lab09\\Code-First\\Models-Code-First\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:45:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\MainWindow.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\MainWindow.xaml",
+              "RelativeToolTip": "Lab09\\Code-First\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T18:25:46.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\App.config",
+              "RelativeDocumentMoniker": "Lab09\\App.config",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\App.config",
+              "RelativeToolTip": "Lab09\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-27T17:34:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab09\\Code-First\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:25:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ex2.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex2.xaml",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Ex2.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex2.xaml",
+              "RelativeToolTip": "Lab09\\Code-First\\Ex2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T18:11:21.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ex1.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex1.xaml",
+              "RelativeDocumentMoniker": "Lab09\\Code-First\\Ex1.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_09\\Lab09\\Code-First\\Ex1.xaml",
+              "RelativeToolTip": "Lab09\\Code-First\\Ex1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T17:48:44.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

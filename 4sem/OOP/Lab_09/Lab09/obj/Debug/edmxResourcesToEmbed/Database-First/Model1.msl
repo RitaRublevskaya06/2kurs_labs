@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PlanetsModelStoreContainer" CdmEntityContainer="PlanetsEntities">
+    <EntitySetMapping Name="PLANETS">
+      <EntityTypeMapping TypeName="PlanetsModel.PLANET">
+        <MappingFragment StoreEntitySet="PLANETS">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Radius" ColumnName="Radius" />
+          <ScalarProperty Name="Core_Temperature" ColumnName="Core_Temperature" />
+          <ScalarProperty Name="Have_Atmosphere" ColumnName="Have_Atmosphere" />
+          <ScalarProperty Name="Have_Life" ColumnName="Have_Life" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SATELLITES">
+      <EntityTypeMapping TypeName="PlanetsModel.SATELLITE">
+        <MappingFragment StoreEntitySet="SATELLITES">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Planet_Name" ColumnName="Planet_Name" />
+          <ScalarProperty Name="Radius" ColumnName="Radius" />
+          <ScalarProperty Name="Planetary_Distance" ColumnName="Planetary_Distance" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

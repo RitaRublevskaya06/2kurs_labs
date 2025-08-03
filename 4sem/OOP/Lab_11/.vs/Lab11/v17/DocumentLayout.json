@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\lab11\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43846D47-6559-4E69-A739-1E95E057E31A}|Lab11\\Lab11.csproj|solutionrelative:lab11\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Lab11\\Model\\Student.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Model\\Student.cs",
+              "RelativeToolTip": "Lab11\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:18:35.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Model\\Model1.cs",
+              "RelativeDocumentMoniker": "Lab11\\Model\\Model1.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Model\\Model1.cs",
+              "RelativeToolTip": "Lab11\\Model\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:18:33.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\App.config",
+              "RelativeDocumentMoniker": "Lab11\\App.config",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\App.config",
+              "RelativeToolTip": "Lab11\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAD+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-28T12:03:17.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab11\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Lab11\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T12:03:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Lab11\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "Lab11\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:03:01.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Lab11\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Lab11\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:02:58.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Command\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Lab11\\Command\\RelayCommand.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\Command\\RelayCommand.cs",
+              "RelativeToolTip": "Lab11\\Command\\RelayCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:02:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\ViewModels\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "Lab11\\ViewModels\\CourseViewModel.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_11\\Lab11\\ViewModels\\CourseViewModel.cs",
+              "RelativeToolTip": "Lab11\\ViewModels\\CourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:47:48.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

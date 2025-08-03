@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\eventstest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\eventstest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\messagecontrolconfirm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\messagecontrolconfirm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\eventstest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\eventstest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\messagecontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\messagecontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\messagecontrolconfirm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\messagecontrolconfirm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\messagecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\messagecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|d:\\univer\\2 kurs\\4_sem\\oop\\lab_07\\lab04-05\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AFFED1A-B52B-44E4-A8E0-8A334B19BCE2}|Lab04-05\\Lab04-05.csproj|solutionrelative:lab04-05\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventsTest.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\EventsTest.xaml",
+              "RelativeDocumentMoniker": "Lab04-05\\EventsTest.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\EventsTest.xaml",
+              "RelativeToolTip": "Lab04-05\\EventsTest.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T14:10:15.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageControlConfirm.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControlConfirm.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04-05\\MessageControlConfirm.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControlConfirm.xaml.cs",
+              "RelativeToolTip": "Lab04-05\\MessageControlConfirm.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:23:29.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsTest.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\EventsTest.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04-05\\EventsTest.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\EventsTest.xaml.cs",
+              "RelativeToolTip": "Lab04-05\\EventsTest.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:11:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\Models\\Command.cs",
+              "RelativeDocumentMoniker": "Lab04-05\\Models\\Command.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\Models\\Command.cs",
+              "RelativeToolTip": "Lab04-05\\Models\\Command.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:16:18.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "Lab04-05\\ProductsPage.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\ProductsPage.xaml",
+              "RelativeToolTip": "Lab04-05\\ProductsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T15:33:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageControl.xaml.cs",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControl.xaml.cs",
+              "RelativeDocumentMoniker": "Lab04-05\\MessageControl.xaml.cs",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControl.xaml.cs",
+              "RelativeToolTip": "Lab04-05\\MessageControl.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:22:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageControlConfirm.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControlConfirm.xaml",
+              "RelativeDocumentMoniker": "Lab04-05\\MessageControlConfirm.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControlConfirm.xaml",
+              "RelativeToolTip": "Lab04-05\\MessageControlConfirm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T14:23:17.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageControl.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControl.xaml",
+              "RelativeDocumentMoniker": "Lab04-05\\MessageControl.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\MessageControl.xaml",
+              "RelativeToolTip": "Lab04-05\\MessageControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T14:21:52.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Lab04-05\\LoginWindow.xaml",
+              "ToolTip": "D:\\Univer\\2 kurs\\4_sem\\OOP\\Lab_07\\Lab04-05\\LoginWindow.xaml",
+              "RelativeToolTip": "Lab04-05\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T14:07:30.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
