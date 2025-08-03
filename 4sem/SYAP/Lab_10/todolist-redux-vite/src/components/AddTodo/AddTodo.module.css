@@ -1,0 +1,66 @@
+.addTodoForm {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.addTodoInput {
+  flex: 1;
+  /* min-width: 700px; */
+  padding: 12px 20px;
+  border: 2px solid #e0e0e0;
+  border-radius: 25px;
+  font-size: 16px;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.addTodoInput:focus {
+  border-color: #2196F3;
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+}
+
+.addTodoButton {
+  padding: 12px 30px;
+  background: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.addTodoButton:hover {
+  background: #1976D2;
+  transform: translateY(-1px);
+}
+/* .addTodoForm {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .addTodoInput {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+  }
+  
+  .addTodoButton {
+    padding: 10px 20px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .addTodoButton:hover {
+    background-color: #0b7dda;
+  } */

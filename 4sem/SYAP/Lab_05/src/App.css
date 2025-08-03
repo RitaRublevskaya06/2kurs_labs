@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.counter {
+  text-align: center;
+}
+
+h1 {
+  color: #00BFFF;
+  font-weight: normal;
+}
+
+h1.red {
+  color: red;
+  font-weight: normal;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: #050505;
+  border: 1px solid #00BFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  border-radius: 15px;
+  padding:10px;
+}
+.button-container {
+  display: flex;
+  justify-content: center; 
+  width: 100%;
+}
+button {
+  background-color: #00BFFF;
+  color: rgb(9, 9, 9);
+  border: none;
+  padding: 10px 10px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+button:disabled {
+  background-color: #08899c;
+  color: rgb(68, 67, 67);
+  
+}
