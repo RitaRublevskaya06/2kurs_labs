@@ -1,0 +1,341 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: #eef3f4;
+}
+
+/* Хедер */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #eef4f5;
+    margin-top: -50px;
+}
+
+.logo-text {
+    font-family: 'My Soul', cursive;
+    font-size: 65px;
+    color: #1a3a6a;
+    -webkit-text-stroke: 1px #1a3a6a;
+}
+
+.nav-desktop {
+    display: flex;
+    gap: 40px;
+    margin-left: auto;
+    margin-right: 190px;
+    margin-top: 150px;
+}
+
+.nav-link {
+    color: #2a5caa;
+    font-size: 22px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+    padding: 10px 30px;
+    border-radius: 4px;
+    font-size: 22px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.login-btn {
+    background-color: #e0e0e0;
+    color: #2a5caa;
+    border: none;
+}
+
+.register-btn {
+    background-color: #2a5caa;
+    color: white;
+    border: none;
+}
+
+
+
+/* Основной контент */
+.hero-section {
+    /* text-align: center; */
+    padding: 50px 20px;
+    background-size: cover;
+}
+
+.hero-title {
+    font-size: 32px;
+    color: #032558;
+    margin-bottom: 50px;
+    margin-top: 75px;
+}
+
+.cta-btn {
+    background-color: #4caf8a;
+    color: white;
+    padding: 15px 40px;
+    font-size: 22px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+.hero-section {
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+}
+
+.hero-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/slaider.png');
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 2;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 3;
+    padding: 100px 20px;
+    text-align: left;
+    color: white;
+}
+
+
+/*////////ывапролдююлорпавыфвапролджлпрекафывпкенгшщзхщшгнпкацйфцукенгшщзшгнекуцй   цукенгшщзшлонепка//////////*/
+
+/* Секции услуг */
+/* .services-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    padding: 50px;
+}
+
+.service-card {
+    background: rgba(46, 149, 239, 0.67);
+    border-radius: 15px;
+    padding: 40px;
+    text-align: center;
+}
+
+.service-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.service-description {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+} */
+.services-section {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding: 70px 0;
+    flex-wrap: wrap;
+}
+
+.service-card {
+    width: 350px;
+    background-color: #78bdf7;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.service-card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.service-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+.service-description {
+    font-size: 16px;
+    color: #0a2540;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+.service-btn {
+    background-color: #223b78; /* Тёмно-синий */
+    color: #ffffff;
+    padding: 15px 25px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+.service-btn:hover {
+    background-color: #1b2f63;
+}
+
+
+
+
+/* О компании */
+/* .about-section {
+    padding: 50px;
+}
+
+.about-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+}
+
+.about-image {
+    max-width: 100%;
+    border-radius: 15px;
+} */
+
+/* Футер */
+/* .footer {
+    background-color: #2a5caa;
+    color: white;
+    padding: 50px;
+    margin-top: 100px;
+}
+
+.contact-item {
+    margin: 10px 0;
+} */
+
+
+
+/* === О КОМПАНИИ === */
+.about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 40px;
+    gap: 60px;
+    background-color: #eef4f5;
+    flex-wrap: wrap;
+}
+
+.about-image {
+    width: 500px;
+    max-width: 100%;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-content {
+    max-width: 600px;
+}
+
+.section-title {
+    font-size: 32px;
+    font-weight: 600;
+    color: #00204a;
+    margin-bottom: 20px;
+}
+
+.about-description {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #0a2540;
+}
+.about-highlight {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2a5caa;
+    margin-bottom: 15px;
+}
+
+
+
+/* === FOOTER === */
+.footer {
+    background-color: #223b78;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 40px 40px 30px;
+}
+
+.footer-column {
+    flex: 1 1 250px;
+    margin: 20px;
+}
+
+.footer-title {
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.contact-item,
+.footer-link {
+    font-size: 17px;
+    margin: 12px 0;
+    display: block;
+    color: #d8e4f0;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 12px;
+    color: #c0cde0;
+    /* border-top: 1px solid #445b99; */
+    padding-top: 10px;
+}
+.footer-column.menu-column {
+  display: block;
+}
+
